@@ -1,7 +1,5 @@
 # AD-Documents
-Documents utiles
-
-### Explications
+Documents utiles pour entreprises et privés
 
 **Decomptes Boissons DVDs**
 
