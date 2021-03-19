@@ -2,13 +2,13 @@
 Documents utiles pour entreprises et privés
 __________________________________________________________________________________________________
 
-**Decomptes Boissons DVDs**
+**DecomptesBoissonsDVDs**
 
 Faire tenir sur une petite feuille un tableau de controle de stock utilisé chaque jour.
 
 __________________________________________________________________________________________________
 
-**Plan Des Extincteurs**
+**PlanDesExtincteurs**
 
 Plan des des extincteurs, couplé avec les dates d'entretien et sorties de secours.
 
